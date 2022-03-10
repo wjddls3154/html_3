@@ -1,4 +1,4 @@
-# html_3
+# 내가 스스로 하는 배운거 정리 : html_3
 Created with CodeSandbox
 
 ![3](https://user-images.githubusercontent.com/37132897/157605229-cc207921-d8ef-48e7-be59-40b57db13627.PNG)
