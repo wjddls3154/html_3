@@ -1,8 +1,8 @@
 # html_3
 Created with CodeSandbox
 
-CodeSendBox 이용해서 코딩
-* html 
+![3](https://user-images.githubusercontent.com/37132897/157605229-cc207921-d8ef-48e7-be59-40b57db13627.PNG)
+
 
 img 관련 (picture 난 source 와 함께 사용하는 것을 권장함)
 - img src = "./폴더명/파일명" 
